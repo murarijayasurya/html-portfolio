@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(252, 242, 242);
+}
+img {
+      border-radius: 50%;
+      border: 5px solid #f3afaf;
+    }
+    
+
+.hobbies {
+  background-color: rgb(219, 249, 194);
+  padding: 200px;
+  width: 100%;
+  padding: 20px;
+}
+.studies {
+  background-color: rgb(219, 249, 194);
+  padding: 200px;
+  width: 100%;
+  padding: 20px;
+}
+.skills {
+  background-color: rgb(219, 249, 194);
+  padding: 200px;
+  width: 100%;
+  padding: 20px;
+}
